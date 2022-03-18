@@ -1,0 +1,28 @@
+{
+  "name": "my_tetris",
+  "version": "1.0.0",
+  "description": "it is qwasar tetris project",
+  "main": "./my_tetris",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athamov/tetris.git"
+  },
+  "keywords": [
+    "tetris"
+  ],
+  "author": "athamov abdullox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/athamov/tetris/issues"
+  },
+  "homepage": "https://github.com/athamov/tetris#readme",
+  "dependencies": {
+    "canvas": "^2.9.0",
+    "canvas-constructor": "^5.0.2",
+    "express": "^4.17.3",
+    "gsap": "^3.9.1"
+  }
+}
